@@ -73,7 +73,7 @@ const Projects = () => {
           initial="hidden"
           whileInView="visible"
           viewport={{ once: true, amount: 0.2 }}
-        >
+        > 
           {/* ROW 1 */}
           
           <Project title="Project-1" subtitle="MERN Stack Real-Time Messaging Web Application" hyperlink="https://github.com/gauravgupta1272/talkWeb" name="talkWeb"/>
