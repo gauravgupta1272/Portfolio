@@ -20,7 +20,7 @@ const Education = () => {
         }}
       >
         <p className="font-playfair font-semibold text-4xl mb-5 text-red">
-          EDUCATION
+          EDU<span className="font-playfair font-semibold text-4xl mb-5 text-white">CATION</span>
         </p>
         <LineGradient width="mx-auto w-2/5" />
         

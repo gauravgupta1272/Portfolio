@@ -77,7 +77,7 @@ const Projects = () => {
           {/* ROW 1 */}
           
           <Project title="Project-1" subtitle="MERN Stack Real-Time Messaging Web Application" hyperlink="https://github.com/gauravgupta1272/talkWeb" name="talkWeb"/>
-          <Project title="Project-2" subtitle="WEBURL Article Summarizer " hyperlink="https://stately-beignet-d50ca9.netlify.app/" name="LESSEN"/>
+          <Project title="Project-2" subtitle="WEBURL Article Summarizer " hyperlink="https://atlessen.netlify.app/" name="LESSEN"/>
           <Project title="Project-3" subtitle="Select Food and Reserve Tables Online." hyperlink="https://github.com/gauravgupta1272/CafeMania" name="CafeMania"/>
           
           
